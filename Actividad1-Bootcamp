@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!--
+            Este es mi primer comentario de dos líneas
+            Aprendiendo a documentar mi código con OpenBootcamp
+        -->
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=9qzTMGZOd20">¡Conviértete en Front-End developer 
+                y encuentra trabajo con estas 3 tecnologías! </a></li>
+            <li><a href="https://www.youtube.com/watch?v=UAt-Ae1YVaA">¡Las 4 tecnologías para conseguir 
+                EMPLEO como Back-End en 2023! </a></li> 
+            <li><a href="https://www.youtube.com/watch?v=2uGDCCFmjas">¿POR QUÉ SOMOS GRATIS?</a></li>   
+        </ul>
+    </body>
+</html>
